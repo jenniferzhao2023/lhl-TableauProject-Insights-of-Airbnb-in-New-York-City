@@ -2,7 +2,7 @@
 
 ## Project/Goals
 
-This project aims to explore and analyze a dataset containing 30,478 Airbnb listing in New York city with Tableau. By analyzing this dataset, our goal is to gain a comprehensive understanding of various aspects of the listing and uncover meaning patterns, trends, and valuable insights. These insights will provide a valuable knowledge of Airbnb market in New York city, benefiting both Airbnb hosts and potential guests.
+This project aims to explore and analyze a dataset containing 30,478 Airbnb listings in New York City with Tableau. By analyzing this dataset, our goal is to gain a comprehensive understanding of various aspects of the listing and uncover meaning patterns, trends, and valuable insights. These insights will provide valuable knowledge of New York City's Airbnb market, benefiting both hosts and potential guests.
 
 ## Process
 1.	Data Connection and Exploration: After connecting the data, I thoroughly explored the tables and detected the datatypes of columns. From my observations, it is evident that the dataset provides valuable information about the hosts, geographical details, and various metrics such as price, number of reviews, and other related fields.
